@@ -1,0 +1,95 @@
+/* sec-8-slider */
+/* cmt-card-slider */
+.cards-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+    min-height: 250px;
+    padding-top: 0px;
+}
+.cars {
+    margin: 10px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 6px 61px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    width: 388px;
+    height: 242px;
+}
+h4.cmt-card-heading.Space-font {
+    font-size: 13px !important;
+}
+p.cmt-card-des.inter-font {
+    font-size: 11px !important;
+    margin-bottom: 0px !important;
+}
+.col-md-5.cmt-text {
+    margin-left: 23px !important;
+    margin-top: 12px !important;
+}
+img.cmt-card-img {
+    margin-left: -1px !important ;
+}
+img.cmt-card-icon {
+    width: 65px!important;
+}
+.col-md-4.cmt-icon.\32 nd {
+    left: 13% !important;
+}
+i.fa-solid.fa-star.product-star.cmt {
+    font-size: 9px !important ;
+}
+.crds.\31 st-one {
+    margin-left: -230px !important;
+}
+.col-md-4.cmt-icon {
+    position: relative !important;
+    left: 20% !important ;
+    margin-top: 7px !important;
+}
+.row.justify-content-center.cmt-top {
+    margin-top: -3px !important;
+    margin-bottom: 40px !important;
+}
+p.cmt-card-des.inter-font {
+    font-size: 12px !important;
+    margin-bottom: 0px !important;
+    text-align: justify !important;
+}
+.crds {
+    display: flex !important;
+}
+h2.product-sec-title-cmt.justify-content-center {
+    margin-bottom: 10px !important;
+}
+.col-md-10.pro-cards {
+    display: flex;
+}
+.col-md-6.bottom.part {
+    margin-top: 100px;
+}
+
+h2.product-sec-title-cmt.justify-content-center {
+    margin-bottom: 50px;
+    font-weight: bold;
+    margin-left: -61px;
+}
+a#left {
+    padding: 14px 16px 11px 17px;
+    border-radius: 106px;
+    margin-right: 20px;
+    position: relative;
+    left: 85%;
+    background-color: white;
+    color: black;
+}
+a#right {
+    padding: 14px 16px 11px 17px;
+    border-radius: 106px;
+    margin-right: 20px;
+    position: relative;
+    left: 85%;
+}
+/* cmt-card-slider */
